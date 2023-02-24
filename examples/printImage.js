@@ -1,7 +1,7 @@
-const { Printer, Command } = require("../index");
+const { Printer, Command } = require('../index')
 
-let printer = new Printer();
-let cmd = new Command();
+let printer = new Printer()
+let cmd = new Command()
 
 // 请自己引入图片资源
 // !async function () {
